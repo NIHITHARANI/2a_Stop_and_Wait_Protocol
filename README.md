@@ -12,7 +12,8 @@ To write a python program to perform stop and wait protocol
 ![2aprogram](https://github.com/user-attachments/assets/bf2f9290-ffcb-431f-9231-e676b5614ca9)
 
 ## OUTPUT
-![Uploading 2aprogram.png…]()
+![2aoutput](https://github.com/user-attachments/assets/e2ff7d95-64ab-4e57-aebd-8ecada193b79)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
